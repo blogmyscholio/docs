@@ -9,13 +9,14 @@
   },
   "favicon": "/favicon.ico",
   "navigation": {
-    "groups": [
+    "pages": [
       {
         "group": "Recent Articles",
         "pages": [
           "blog/why_scholio"
         ]
-      }
+      },
+      "blog/how-my-scholio-bridges-the-gap-between"
     ]
   },
   
